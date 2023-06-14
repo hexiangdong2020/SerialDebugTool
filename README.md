@@ -1,0 +1,2 @@
+# SerialDebugTool
+使用Rust和Slint开发的串口调试工具
